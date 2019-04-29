@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1556543664 source:e:\cpproject\sqlexp4\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1556543661 e:\cpproject\sqlexp4\extmem.h
+
+1556545404 source:e:\cpproject\sqlexp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"extmem.h"
+
+1556533136 source:e:\cpproject\sqlexp4\test.c
+
+1556537329 source:e:\cpproject\sqlexp4\intersection.c
+	<stdio.h>
+	<stdlib.h>
+	"extmem.h"
+
+1556545517 source:e:\cpproject\sqlexp4\unionset.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1556545540 source:e:\cpproject\sqlexp4\selection.c
+	<stdio.h>
+	<stdlib.h>
+	"extmem.h"
+
+1556545563 source:e:\cpproject\sqlexp4\difference.c
+	<stdio.h>
+	<stdlib.h>
+	"extmem.h"
+
+1556545388 source:e:\cpproject\sqlexp4\projection.c
+	<stdio.h>
+	<stdlib.h>
+	"extmem.h"
+
